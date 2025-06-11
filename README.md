@@ -55,7 +55,7 @@ portfolio/
 ## 🔗 Live Demo
 
 > Add your GitHub Pages or live deployment link here  
-> https://Bhuvanaadepu.github.io/portfolio-html-css
+> https://Bhuvanaadepu.github.io/Portfolio-html-css
 
 ---
 
